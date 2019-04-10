@@ -1,0 +1,11 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_IfElseCase\DemoIfElseCase\obj\Debug\netcoreapp2.1\DemoIfElseCase.csprojAssemblyReference.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_IfElseCase\DemoIfElseCase\obj\Debug\netcoreapp2.1\DemoIfElseCase.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_IfElseCase\DemoIfElseCase\obj\Debug\netcoreapp2.1\DemoIfElseCase.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_IfElseCase\DemoIfElseCase\obj\Debug\netcoreapp2.1\DemoIfElseCase.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_IfElseCase\DemoIfElseCase\bin\Debug\netcoreapp2.1\DemoIfElseCase.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_IfElseCase\DemoIfElseCase\bin\Debug\netcoreapp2.1\DemoIfElseCase.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_IfElseCase\DemoIfElseCase\bin\Debug\netcoreapp2.1\DemoIfElseCase.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_IfElseCase\DemoIfElseCase\bin\Debug\netcoreapp2.1\DemoIfElseCase.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_IfElseCase\DemoIfElseCase\bin\Debug\netcoreapp2.1\DemoIfElseCase.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_IfElseCase\DemoIfElseCase\obj\Debug\netcoreapp2.1\DemoIfElseCase.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_IfElseCase\DemoIfElseCase\obj\Debug\netcoreapp2.1\DemoIfElseCase.pdb
